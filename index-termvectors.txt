@@ -1,0 +1,2399 @@
+{
+  "_index" : "index",
+  "_type" : "fulltext",
+  "_id" : "1",
+  "_version" : 2,
+  "found" : true,
+  "took" : 13,
+  "term_vectors" : {
+    "content" : {
+      "terms" : {
+        "1992" : {
+          "term_freq" : 2
+        },
+        "1996" : {
+          "term_freq" : 1
+        },
+        "20" : {
+          "term_freq" : 5
+        },
+        "2016" : {
+          "term_freq" : 1
+        },
+        "92" : {
+          "term_freq" : 1
+        },
+        "cop21" : {
+          "term_freq" : 1
+        },
+        "emsp" : {
+          "term_freq" : 7
+        },
+        "rcep" : {
+          "term_freq" : 1
+        },
+        "tpp" : {
+          "term_freq" : 1
+        },
+        "ㄟ" : {
+          "term_freq" : 1
+        },
+        "一" : {
+          "term_freq" : 75
+        },
+        "三" : {
+          "term_freq" : 7
+        },
+        "上" : {
+          "term_freq" : 19
+        },
+        "下" : {
+          "term_freq" : 8
+        },
+        "不" : {
+          "term_freq" : 42
+        },
+        "且" : {
+          "term_freq" : 4
+        },
+        "世" : {
+          "term_freq" : 8
+        },
+        "並" : {
+          "term_freq" : 9
+        },
+        "中" : {
+          "term_freq" : 15
+        },
+        "主" : {
+          "term_freq" : 31
+        },
+        "乃" : {
+          "term_freq" : 1
+        },
+        "久" : {
+          "term_freq" : 1
+        },
+        "之" : {
+          "term_freq" : 11
+        },
+        "乏" : {
+          "term_freq" : 2
+        },
+        "也" : {
+          "term_freq" : 24
+        },
+        "了" : {
+          "term_freq" : 12
+        },
+        "事" : {
+          "term_freq" : 17
+        },
+        "二" : {
+          "term_freq" : 3
+        },
+        "互" : {
+          "term_freq" : 8
+        },
+        "五" : {
+          "term_freq" : 3
+        },
+        "些" : {
+          "term_freq" : 6
+        },
+        "亞" : {
+          "term_freq" : 4
+        },
+        "交" : {
+          "term_freq" : 11
+        },
+        "享" : {
+          "term_freq" : 4
+        },
+        "人" : {
+          "term_freq" : 58
+        },
+        "什" : {
+          "term_freq" : 1
+        },
+        "仁" : {
+          "term_freq" : 3
+        },
+        "今" : {
+          "term_freq" : 7
+        },
+        "仍" : {
+          "term_freq" : 1
+        },
+        "他" : {
+          "term_freq" : 9
+        },
+        "代" : {
+          "term_freq" : 14
+        },
+        "以" : {
+          "term_freq" : 27
+        },
+        "件" : {
+          "term_freq" : 8
+        },
+        "任" : {
+          "term_freq" : 19
+        },
+        "企" : {
+          "term_freq" : 3
+        },
+        "伉" : {
+          "term_freq" : 1
+        },
+        "休" : {
+          "term_freq" : 1
+        },
+        "伴" : {
+          "term_freq" : 2
+        },
+        "但" : {
+          "term_freq" : 7
+        },
+        "佈" : {
+          "term_freq" : 1
+        },
+        "位" : {
+          "term_freq" : 4
+        },
+        "低" : {
+          "term_freq" : 2
+        },
+        "住" : {
+          "term_freq" : 4
+        },
+        "作" : {
+          "term_freq" : 18
+        },
+        "使" : {
+          "term_freq" : 4
+        },
+        "來" : {
+          "term_freq" : 49
+        },
+        "例" : {
+          "term_freq" : 1
+        },
+        "依" : {
+          "term_freq" : 4
+        },
+        "係" : {
+          "term_freq" : 9
+        },
+        "促" : {
+          "term_freq" : 1
+        },
+        "保" : {
+          "term_freq" : 4
+        },
+        "信" : {
+          "term_freq" : 10
+        },
+        "個" : {
+          "term_freq" : 66
+        },
+        "們" : {
+          "term_freq" : 90
+        },
+        "倒" : {
+          "term_freq" : 2
+        },
+        "候" : {
+          "term_freq" : 3
+        },
+        "值" : {
+          "term_freq" : 7
+        },
+        "偉" : {
+          "term_freq" : 2
+        },
+        "做" : {
+          "term_freq" : 10
+        },
+        "停" : {
+          "term_freq" : 1
+        },
+        "健" : {
+          "term_freq" : 3
+        },
+        "備" : {
+          "term_freq" : 2
+        },
+        "催" : {
+          "term_freq" : 1
+        },
+        "傲" : {
+          "term_freq" : 1
+        },
+        "傳" : {
+          "term_freq" : 1
+        },
+        "傷" : {
+          "term_freq" : 2
+        },
+        "像" : {
+          "term_freq" : 1
+        },
+        "僵" : {
+          "term_freq" : 1
+        },
+        "價" : {
+          "term_freq" : 8
+        },
+        "優" : {
+          "term_freq" : 3
+        },
+        "儷" : {
+          "term_freq" : 1
+        },
+        "元" : {
+          "term_freq" : 6
+        },
+        "充" : {
+          "term_freq" : 2
+        },
+        "先" : {
+          "term_freq" : 5
+        },
+        "光" : {
+          "term_freq" : 1
+        },
+        "克" : {
+          "term_freq" : 1
+        },
+        "兒" : {
+          "term_freq" : 1
+        },
+        "入" : {
+          "term_freq" : 2
+        },
+        "內" : {
+          "term_freq" : 7
+        },
+        "全" : {
+          "term_freq" : 30
+        },
+        "兩" : {
+          "term_freq" : 19
+        },
+        "公" : {
+          "term_freq" : 11
+        },
+        "六" : {
+          "term_freq" : 1
+        },
+        "共" : {
+          "term_freq" : 18
+        },
+        "其" : {
+          "term_freq" : 8
+        },
+        "典" : {
+          "term_freq" : 1
+        },
+        "再" : {
+          "term_freq" : 7
+        },
+        "凝" : {
+          "term_freq" : 1
+        },
+        "出" : {
+          "term_freq" : 11
+        },
+        "分" : {
+          "term_freq" : 5
+        },
+        "切" : {
+          "term_freq" : 3
+        },
+        "判" : {
+          "term_freq" : 2
+        },
+        "別" : {
+          "term_freq" : 4
+        },
+        "利" : {
+          "term_freq" : 5
+        },
+        "到" : {
+          "term_freq" : 8
+        },
+        "制" : {
+          "term_freq" : 13
+        },
+        "刻" : {
+          "term_freq" : 6
+        },
+        "則" : {
+          "term_freq" : 7
+        },
+        "前" : {
+          "term_freq" : 9
+        },
+        "剛" : {
+          "term_freq" : 4
+        },
+        "副" : {
+          "term_freq" : 3
+        },
+        "創" : {
+          "term_freq" : 4
+        },
+        "劃" : {
+          "term_freq" : 4
+        },
+        "劇" : {
+          "term_freq" : 2
+        },
+        "力" : {
+          "term_freq" : 21
+        },
+        "功" : {
+          "term_freq" : 2
+        },
+        "加" : {
+          "term_freq" : 5
+        },
+        "助" : {
+          "term_freq" : 4
+        },
+        "努" : {
+          "term_freq" : 6
+        },
+        "勇" : {
+          "term_freq" : 4
+        },
+        "動" : {
+          "term_freq" : 26
+        },
+        "務" : {
+          "term_freq" : 6
+        },
+        "勞" : {
+          "term_freq" : 3
+        },
+        "勢" : {
+          "term_freq" : 3
+        },
+        "勵" : {
+          "term_freq" : 1
+        },
+        "包" : {
+          "term_freq" : 5
+        },
+        "化" : {
+          "term_freq" : 15
+        },
+        "區" : {
+          "term_freq" : 21
+        },
+        "十" : {
+          "term_freq" : 6
+        },
+        "千" : {
+          "term_freq" : 1
+        },
+        "升" : {
+          "term_freq" : 4
+        },
+        "午" : {
+          "term_freq" : 1
+        },
+        "協" : {
+          "term_freq" : 9
+        },
+        "南" : {
+          "term_freq" : 3
+        },
+        "印" : {
+          "term_freq" : 1
+        },
+        "危" : {
+          "term_freq" : 1
+        },
+        "卻" : {
+          "term_freq" : 1
+        },
+        "原" : {
+          "term_freq" : 9
+        },
+        "去" : {
+          "term_freq" : 15
+        },
+        "參" : {
+          "term_freq" : 13
+        },
+        "及" : {
+          "term_freq" : 25
+        },
+        "友" : {
+          "term_freq" : 7
+        },
+        "反" : {
+          "term_freq" : 3
+        },
+        "取" : {
+          "term_freq" : 1
+        },
+        "受" : {
+          "term_freq" : 5
+        },
+        "口" : {
+          "term_freq" : 3
+        },
+        "古" : {
+          "term_freq" : 1
+        },
+        "句" : {
+          "term_freq" : 2
+        },
+        "另" : {
+          "term_freq" : 2
+        },
+        "只" : {
+          "term_freq" : 7
+        },
+        "召" : {
+          "term_freq" : 3
+        },
+        "可" : {
+          "term_freq" : 12
+        },
+        "史" : {
+          "term_freq" : 9
+        },
+        "司" : {
+          "term_freq" : 13
+        },
+        "各" : {
+          "term_freq" : 12
+        },
+        "合" : {
+          "term_freq" : 14
+        },
+        "同" : {
+          "term_freq" : 33
+        },
+        "向" : {
+          "term_freq" : 10
+        },
+        "含" : {
+          "term_freq" : 1
+        },
+        "告" : {
+          "term_freq" : 7
+        },
+        "呼" : {
+          "term_freq" : 1
+        },
+        "命" : {
+          "term_freq" : 2
+        },
+        "和" : {
+          "term_freq" : 46
+        },
+        "品" : {
+          "term_freq" : 1
+        },
+        "員" : {
+          "term_freq" : 7
+        },
+        "唯" : {
+          "term_freq" : 1
+        },
+        "唱" : {
+          "term_freq" : 2
+        },
+        "商" : {
+          "term_freq" : 6
+        },
+        "問" : {
+          "term_freq" : 8
+        },
+        "善" : {
+          "term_freq" : 6
+        },
+        "喪" : {
+          "term_freq" : 1
+        },
+        "單" : {
+          "term_freq" : 1
+        },
+        "嚴" : {
+          "term_freq" : 6
+        },
+        "四" : {
+          "term_freq" : 7
+        },
+        "回" : {
+          "term_freq" : 2
+        },
+        "因" : {
+          "term_freq" : 7
+        },
+        "困" : {
+          "term_freq" : 3
+        },
+        "國" : {
+          "term_freq" : 60
+        },
+        "團" : {
+          "term_freq" : 8
+        },
+        "土" : {
+          "term_freq" : 6
+        },
+        "在" : {
+          "term_freq" : 43
+        },
+        "地" : {
+          "term_freq" : 11
+        },
+        "均" : {
+          "term_freq" : 1
+        },
+        "坦" : {
+          "term_freq" : 1
+        },
+        "型" : {
+          "term_freq" : 5
+        },
+        "域" : {
+          "term_freq" : 18
+        },
+        "執" : {
+          "term_freq" : 3
+        },
+        "培" : {
+          "term_freq" : 1
+        },
+        "基" : {
+          "term_freq" : 5
+        },
+        "堅" : {
+          "term_freq" : 5
+        },
+        "報" : {
+          "term_freq" : 2
+        },
+        "場" : {
+          "term_freq" : 7
+        },
+        "塊" : {
+          "term_freq" : 2
+        },
+        "塑" : {
+          "term_freq" : 2
+        },
+        "境" : {
+          "term_freq" : 10
+        },
+        "增" : {
+          "term_freq" : 1
+        },
+        "壓" : {
+          "term_freq" : 1
+        },
+        "外" : {
+          "term_freq" : 9
+        },
+        "多" : {
+          "term_freq" : 13
+        },
+        "夠" : {
+          "term_freq" : 2
+        },
+        "夥" : {
+          "term_freq" : 2
+        },
+        "大" : {
+          "term_freq" : 12
+        },
+        "天" : {
+          "term_freq" : 8
+        },
+        "太" : {
+          "term_freq" : 2
+        },
+        "央" : {
+          "term_freq" : 1
+        },
+        "失" : {
+          "term_freq" : 5
+        },
+        "奈" : {
+          "term_freq" : 1
+        },
+        "套" : {
+          "term_freq" : 1
+        },
+        "奮" : {
+          "term_freq" : 2
+        },
+        "好" : {
+          "term_freq" : 12
+        },
+        "如" : {
+          "term_freq" : 5
+        },
+        "妄" : {
+          "term_freq" : 1
+        },
+        "妥" : {
+          "term_freq" : 2
+        },
+        "始" : {
+          "term_freq" : 3
+        },
+        "委" : {
+          "term_freq" : 2
+        },
+        "子" : {
+          "term_freq" : 1
+        },
+        "字" : {
+          "term_freq" : 1
+        },
+        "存" : {
+          "term_freq" : 3
+        },
+        "它" : {
+          "term_freq" : 2
+        },
+        "守" : {
+          "term_freq" : 5
+        },
+        "安" : {
+          "term_freq" : 12
+        },
+        "完" : {
+          "term_freq" : 7
+        },
+        "官" : {
+          "term_freq" : 1
+        },
+        "定" : {
+          "term_freq" : 16
+        },
+        "宣" : {
+          "term_freq" : 2
+        },
+        "室" : {
+          "term_freq" : 2
+        },
+        "害" : {
+          "term_freq" : 3
+        },
+        "家" : {
+          "term_freq" : 43
+        },
+        "密" : {
+          "term_freq" : 4
+        },
+        "富" : {
+          "term_freq" : 1
+        },
+        "實" : {
+          "term_freq" : 12
+        },
+        "將" : {
+          "term_freq" : 13
+        },
+        "專" : {
+          "term_freq" : 1
+        },
+        "尊" : {
+          "term_freq" : 2
+        },
+        "尋" : {
+          "term_freq" : 1
+        },
+        "對" : {
+          "term_freq" : 35
+        },
+        "導" : {
+          "term_freq" : 5
+        },
+        "小" : {
+          "term_freq" : 2
+        },
+        "少" : {
+          "term_freq" : 1
+        },
+        "尚" : {
+          "term_freq" : 1
+        },
+        "尤" : {
+          "term_freq" : 3
+        },
+        "就" : {
+          "term_freq" : 32
+        },
+        "局" : {
+          "term_freq" : 2
+        },
+        "屈" : {
+          "term_freq" : 1
+        },
+        "展" : {
+          "term_freq" : 24
+        },
+        "層" : {
+          "term_freq" : 2
+        },
+        "屬" : {
+          "term_freq" : 2
+        },
+        "岸" : {
+          "term_freq" : 15
+        },
+        "島" : {
+          "term_freq" : 1
+        },
+        "工" : {
+          "term_freq" : 9
+        },
+        "差" : {
+          "term_freq" : 1
+        },
+        "己" : {
+          "term_freq" : 4
+        },
+        "已" : {
+          "term_freq" : 7
+        },
+        "巴" : {
+          "term_freq" : 1
+        },
+        "市" : {
+          "term_freq" : 3
+        },
+        "師" : {
+          "term_freq" : 1
+        },
+        "席" : {
+          "term_freq" : 2
+        },
+        "帶" : {
+          "term_freq" : 1
+        },
+        "常" : {
+          "term_freq" : 1
+        },
+        "幫" : {
+          "term_freq" : 3
+        },
+        "干" : {
+          "term_freq" : 1
+        },
+        "平" : {
+          "term_freq" : 18
+        },
+        "年" : {
+          "term_freq" : 33
+        },
+        "幸" : {
+          "term_freq" : 2
+        },
+        "幾" : {
+          "term_freq" : 4
+        },
+        "序" : {
+          "term_freq" : 2
+        },
+        "府" : {
+          "term_freq" : 41
+        },
+        "度" : {
+          "term_freq" : 9
+        },
+        "庭" : {
+          "term_freq" : 2
+        },
+        "康" : {
+          "term_freq" : 2
+        },
+        "廢" : {
+          "term_freq" : 1
+        },
+        "廣" : {
+          "term_freq" : 2
+        },
+        "建" : {
+          "term_freq" : 12
+        },
+        "式" : {
+          "term_freq" : 12
+        },
+        "引" : {
+          "term_freq" : 1
+        },
+        "張" : {
+          "term_freq" : 1
+        },
+        "強" : {
+          "term_freq" : 6
+        },
+        "彈" : {
+          "term_freq" : 1
+        },
+        "彌" : {
+          "term_freq" : 1
+        },
+        "形" : {
+          "term_freq" : 4
+        },
+        "彼" : {
+          "term_freq" : 1
+        },
+        "往" : {
+          "term_freq" : 2
+        },
+        "待" : {
+          "term_freq" : 5
+        },
+        "很" : {
+          "term_freq" : 4
+        },
+        "律" : {
+          "term_freq" : 2
+        },
+        "後" : {
+          "term_freq" : 5
+        },
+        "得" : {
+          "term_freq" : 6
+        },
+        "從" : {
+          "term_freq" : 7
+        },
+        "復" : {
+          "term_freq" : 1
+        },
+        "循" : {
+          "term_freq" : 1
+        },
+        "徵" : {
+          "term_freq" : 1
+        },
+        "心" : {
+          "term_freq" : 13
+        },
+        "必" : {
+          "term_freq" : 11
+        },
+        "忘" : {
+          "term_freq" : 3
+        },
+        "快" : {
+          "term_freq" : 1
+        },
+        "念" : {
+          "term_freq" : 3
+        },
+        "思" : {
+          "term_freq" : 1
+        },
+        "急" : {
+          "term_freq" : 1
+        },
+        "性" : {
+          "term_freq" : 9
+        },
+        "恐" : {
+          "term_freq" : 1
+        },
+        "悉" : {
+          "term_freq" : 1
+        },
+        "悲" : {
+          "term_freq" : 1
+        },
+        "情" : {
+          "term_freq" : 7
+        },
+        "惜" : {
+          "term_freq" : 1
+        },
+        "想" : {
+          "term_freq" : 1
+        },
+        "意" : {
+          "term_freq" : 9
+        },
+        "愛" : {
+          "term_freq" : 2
+        },
+        "感" : {
+          "term_freq" : 8
+        },
+        "態" : {
+          "term_freq" : 5
+        },
+        "慎" : {
+          "term_freq" : 1
+        },
+        "慮" : {
+          "term_freq" : 1
+        },
+        "慶" : {
+          "term_freq" : 1
+        },
+        "憲" : {
+          "term_freq" : 3
+        },
+        "懇" : {
+          "term_freq" : 2
+        },
+        "應" : {
+          "term_freq" : 9
+        },
+        "成" : {
+          "term_freq" : 21
+        },
+        "我" : {
+          "term_freq" : 115
+        },
+        "或" : {
+          "term_freq" : 3
+        },
+        "戰" : {
+          "term_freq" : 1
+        },
+        "所" : {
+          "term_freq" : 12
+        },
+        "手" : {
+          "term_freq" : 4
+        },
+        "才" : {
+          "term_freq" : 4
+        },
+        "打" : {
+          "term_freq" : 10
+        },
+        "托" : {
+          "term_freq" : 1
+        },
+        "扛" : {
+          "term_freq" : 2
+        },
+        "找" : {
+          "term_freq" : 1
+        },
+        "承" : {
+          "term_freq" : 10
+        },
+        "技" : {
+          "term_freq" : 1
+        },
+        "把" : {
+          "term_freq" : 9
+        },
+        "投" : {
+          "term_freq" : 1
+        },
+        "拋" : {
+          "term_freq" : 3
+        },
+        "括" : {
+          "term_freq" : 3
+        },
+        "持" : {
+          "term_freq" : 12
+        },
+        "按" : {
+          "term_freq" : 1
+        },
+        "挑" : {
+          "term_freq" : 1
+        },
+        "挖" : {
+          "term_freq" : 1
+        },
+        "捍" : {
+          "term_freq" : 2
+        },
+        "捷" : {
+          "term_freq" : 1
+        },
+        "掘" : {
+          "term_freq" : 1
+        },
+        "接" : {
+          "term_freq" : 2
+        },
+        "控" : {
+          "term_freq" : 1
+        },
+        "推" : {
+          "term_freq" : 9
+        },
+        "提" : {
+          "term_freq" : 6
+        },
+        "換" : {
+          "term_freq" : 4
+        },
+        "揭" : {
+          "term_freq" : 1
+        },
+        "揮" : {
+          "term_freq" : 3
+        },
+        "援" : {
+          "term_freq" : 2
+        },
+        "擇" : {
+          "term_freq" : 2
+        },
+        "擊" : {
+          "term_freq" : 2
+        },
+        "擎" : {
+          "term_freq" : 1
+        },
+        "擔" : {
+          "term_freq" : 10
+        },
+        "據" : {
+          "term_freq" : 3
+        },
+        "擱" : {
+          "term_freq" : 1
+        },
+        "擴" : {
+          "term_freq" : 1
+        },
+        "擾" : {
+          "term_freq" : 1
+        },
+        "攜" : {
+          "term_freq" : 1
+        },
+        "支" : {
+          "term_freq" : 2
+        },
+        "攸" : {
+          "term_freq" : 1
+        },
+        "改" : {
+          "term_freq" : 24
+        },
+        "放" : {
+          "term_freq" : 2
+        },
+        "政" : {
+          "term_freq" : 52
+        },
+        "故" : {
+          "term_freq" : 1
+        },
+        "效" : {
+          "term_freq" : 4
+        },
+        "敏" : {
+          "term_freq" : 1
+        },
+        "救" : {
+          "term_freq" : 1
+        },
+        "教" : {
+          "term_freq" : 2
+        },
+        "敢" : {
+          "term_freq" : 5
+        },
+        "整" : {
+          "term_freq" : 11
+        },
+        "文" : {
+          "term_freq" : 5
+        },
+        "料" : {
+          "term_freq" : 1
+        },
+        "新" : {
+          "term_freq" : 48
+        },
+        "方" : {
+          "term_freq" : 13
+        },
+        "於" : {
+          "term_freq" : 10
+        },
+        "旅" : {
+          "term_freq" : 1
+        },
+        "族" : {
+          "term_freq" : 3
+        },
+        "既" : {
+          "term_freq" : 2
+        },
+        "日" : {
+          "term_freq" : 3
+        },
+        "明" : {
+          "term_freq" : 2
+        },
+        "易" : {
+          "term_freq" : 2
+        },
+        "是" : {
+          "term_freq" : 69
+        },
+        "時" : {
+          "term_freq" : 18
+        },
+        "普" : {
+          "term_freq" : 4
+        },
+        "暖" : {
+          "term_freq" : 1
+        },
+        "曲" : {
+          "term_freq" : 1
+        },
+        "更" : {
+          "term_freq" : 10
+        },
+        "書" : {
+          "term_freq" : 1
+        },
+        "曾" : {
+          "term_freq" : 4
+        },
+        "替" : {
+          "term_freq" : 2
+        },
+        "最" : {
+          "term_freq" : 10
+        },
+        "會" : {
+          "term_freq" : 75
+        },
+        "月" : {
+          "term_freq" : 3
+        },
+        "有" : {
+          "term_freq" : 43
+        },
+        "朋" : {
+          "term_freq" : 2
+        },
+        "服" : {
+          "term_freq" : 2
+        },
+        "期" : {
+          "term_freq" : 11
+        },
+        "未" : {
+          "term_freq" : 16
+        },
+        "本" : {
+          "term_freq" : 2
+        },
+        "束" : {
+          "term_freq" : 2
+        },
+        "東" : {
+          "term_freq" : 2
+        },
+        "果" : {
+          "term_freq" : 7
+        },
+        "架" : {
+          "term_freq" : 1
+        },
+        "染" : {
+          "term_freq" : 2
+        },
+        "查" : {
+          "term_freq" : 3
+        },
+        "核" : {
+          "term_freq" : 1
+        },
+        "根" : {
+          "term_freq" : 2
+        },
+        "格" : {
+          "term_freq" : 2
+        },
+        "栽" : {
+          "term_freq" : 1
+        },
+        "案" : {
+          "term_freq" : 1
+        },
+        "條" : {
+          "term_freq" : 4
+        },
+        "棄" : {
+          "term_freq" : 2
+        },
+        "楚" : {
+          "term_freq" : 1
+        },
+        "業" : {
+          "term_freq" : 9
+        },
+        "極" : {
+          "term_freq" : 11
+        },
+        "榮" : {
+          "term_freq" : 1
+        },
+        "構" : {
+          "term_freq" : 9
+        },
+        "樂" : {
+          "term_freq" : 1
+        },
+        "標" : {
+          "term_freq" : 3
+        },
+        "模" : {
+          "term_freq" : 10
+        },
+        "樣" : {
+          "term_freq" : 4
+        },
+        "機" : {
+          "term_freq" : 11
+        },
+        "檢" : {
+          "term_freq" : 1
+        },
+        "權" : {
+          "term_freq" : 6
+        },
+        "次" : {
+          "term_freq" : 3
+        },
+        "歉" : {
+          "term_freq" : 1
+        },
+        "歌" : {
+          "term_freq" : 2
+        },
+        "歐" : {
+          "term_freq" : 1
+        },
+        "止" : {
+          "term_freq" : 3
+        },
+        "正" : {
+          "term_freq" : 12
+        },
+        "此" : {
+          "term_freq" : 5
+        },
+        "步" : {
+          "term_freq" : 7
+        },
+        "歷" : {
+          "term_freq" : 8
+        },
+        "段" : {
+          "term_freq" : 4
+        },
+        "殺" : {
+          "term_freq" : 1
+        },
+        "每" : {
+          "term_freq" : 7
+        },
+        "毒" : {
+          "term_freq" : 1
+        },
+        "民" : {
+          "term_freq" : 63
+        },
+        "氣" : {
+          "term_freq" : 3
+        },
+        "永" : {
+          "term_freq" : 8
+        },
+        "求" : {
+          "term_freq" : 8
+        },
+        "汙" : {
+          "term_freq" : 2
+        },
+        "決" : {
+          "term_freq" : 10
+        },
+        "沒" : {
+          "term_freq" : 8
+        },
+        "治" : {
+          "term_freq" : 11
+        },
+        "法" : {
+          "term_freq" : 24
+        },
+        "泛" : {
+          "term_freq" : 1
+        },
+        "洋" : {
+          "term_freq" : 1
+        },
+        "洞" : {
+          "term_freq" : 2
+        },
+        "洲" : {
+          "term_freq" : 3
+        },
+        "活" : {
+          "term_freq" : 8
+        },
+        "流" : {
+          "term_freq" : 3
+        },
+        "海" : {
+          "term_freq" : 3
+        },
+        "深" : {
+          "term_freq" : 3
+        },
+        "清" : {
+          "term_freq" : 2
+        },
+        "減" : {
+          "term_freq" : 3
+        },
+        "渡" : {
+          "term_freq" : 1
+        },
+        "源" : {
+          "term_freq" : 8
+        },
+        "準" : {
+          "term_freq" : 1
+        },
+        "溝" : {
+          "term_freq" : 6
+        },
+        "溫" : {
+          "term_freq" : 1
+        },
+        "滯" : {
+          "term_freq" : 1
+        },
+        "滿" : {
+          "term_freq" : 1
+        },
+        "演" : {
+          "term_freq" : 5
+        },
+        "漸" : {
+          "term_freq" : 2
+        },
+        "激" : {
+          "term_freq" : 2
+        },
+        "濟" : {
+          "term_freq" : 27
+        },
+        "灣" : {
+          "term_freq" : 41
+        },
+        "災" : {
+          "term_freq" : 1
+        },
+        "為" : {
+          "term_freq" : 24
+        },
+        "烈" : {
+          "term_freq" : 1
+        },
+        "無" : {
+          "term_freq" : 9
+        },
+        "焦" : {
+          "term_freq" : 1
+        },
+        "然" : {
+          "term_freq" : 4
+        },
+        "照" : {
+          "term_freq" : 9
+        },
+        "熟" : {
+          "term_freq" : 1
+        },
+        "爭" : {
+          "term_freq" : 4
+        },
+        "物" : {
+          "term_freq" : 1
+        },
+        "特" : {
+          "term_freq" : 2
+        },
+        "犯" : {
+          "term_freq" : 2
+        },
+        "狀" : {
+          "term_freq" : 1
+        },
+        "獻" : {
+          "term_freq" : 2
+        },
+        "率" : {
+          "term_freq" : 2
+        },
+        "珍" : {
+          "term_freq" : 1
+        },
+        "班" : {
+          "term_freq" : 1
+        },
+        "現" : {
+          "term_freq" : 18
+        },
+        "球" : {
+          "term_freq" : 14
+        },
+        "理" : {
+          "term_freq" : 10
+        },
+        "環" : {
+          "term_freq" : 6
+        },
+        "瓶" : {
+          "term_freq" : 1
+        },
+        "甚" : {
+          "term_freq" : 1
+        },
+        "生" : {
+          "term_freq" : 16
+        },
+        "產" : {
+          "term_freq" : 6
+        },
+        "用" : {
+          "term_freq" : 7
+        },
+        "由" : {
+          "term_freq" : 9
+        },
+        "界" : {
+          "term_freq" : 4
+        },
+        "略" : {
+          "term_freq" : 1
+        },
+        "畫" : {
+          "term_freq" : 3
+        },
+        "異" : {
+          "term_freq" : 2
+        },
+        "當" : {
+          "term_freq" : 3
+        },
+        "疑" : {
+          "term_freq" : 1
+        },
+        "疾" : {
+          "term_freq" : 1
+        },
+        "病" : {
+          "term_freq" : 1
+        },
+        "痕" : {
+          "term_freq" : 2
+        },
+        "痛" : {
+          "term_freq" : 1
+        },
+        "療" : {
+          "term_freq" : 1
+        },
+        "發" : {
+          "term_freq" : 32
+        },
+        "百" : {
+          "term_freq" : 1
+        },
+        "的" : {
+          "term_freq" : 293
+        },
+        "益" : {
+          "term_freq" : 2
+        },
+        "盟" : {
+          "term_freq" : 1
+        },
+        "盡" : {
+          "term_freq" : 2
+        },
+        "目" : {
+          "term_freq" : 4
+        },
+        "直" : {
+          "term_freq" : 3
+        },
+        "相" : {
+          "term_freq" : 15
+        },
+        "盾" : {
+          "term_freq" : 1
+        },
+        "看" : {
+          "term_freq" : 3
+        },
+        "真" : {
+          "term_freq" : 5
+        },
+        "眼" : {
+          "term_freq" : 2
+        },
+        "矛" : {
+          "term_freq" : 1
+        },
+        "知" : {
+          "term_freq" : 2
+        },
+        "短" : {
+          "term_freq" : 1
+        },
+        "研" : {
+          "term_freq" : 2
+        },
+        "破" : {
+          "term_freq" : 5
+        },
+        "碎" : {
+          "term_freq" : 1
+        },
+        "碳" : {
+          "term_freq" : 1
+        },
+        "確" : {
+          "term_freq" : 1
+        },
+        "碼" : {
+          "term_freq" : 1
+        },
+        "礎" : {
+          "term_freq" : 4
+        },
+        "示" : {
+          "term_freq" : 2
+        },
+        "社" : {
+          "term_freq" : 24
+        },
+        "祝" : {
+          "term_freq" : 1
+        },
+        "神" : {
+          "term_freq" : 5
+        },
+        "福" : {
+          "term_freq" : 2
+        },
+        "禮" : {
+          "term_freq" : 1
+        },
+        "秉" : {
+          "term_freq" : 3
+        },
+        "科" : {
+          "term_freq" : 1
+        },
+        "秩" : {
+          "term_freq" : 1
+        },
+        "移" : {
+          "term_freq" : 1
+        },
+        "程" : {
+          "term_freq" : 9
+        },
+        "種" : {
+          "term_freq" : 7
+        },
+        "積" : {
+          "term_freq" : 11
+        },
+        "穩" : {
+          "term_freq" : 5
+        },
+        "究" : {
+          "term_freq" : 1
+        },
+        "突" : {
+          "term_freq" : 2
+        },
+        "立" : {
+          "term_freq" : 18
+        },
+        "站" : {
+          "term_freq" : 2
+        },
+        "競" : {
+          "term_freq" : 1
+        },
+        "符" : {
+          "term_freq" : 1
+        },
+        "第" : {
+          "term_freq" : 19
+        },
+        "等" : {
+          "term_freq" : 5
+        },
+        "策" : {
+          "term_freq" : 4
+        },
+        "節" : {
+          "term_freq" : 4
+        },
+        "範" : {
+          "term_freq" : 1
+        },
+        "籌" : {
+          "term_freq" : 2
+        },
+        "籲" : {
+          "term_freq" : 1
+        },
+        "精" : {
+          "term_freq" : 5
+        },
+        "系" : {
+          "term_freq" : 6
+        },
+        "素" : {
+          "term_freq" : 2
+        },
+        "累" : {
+          "term_freq" : 1
+        },
+        "終" : {
+          "term_freq" : 2
+        },
+        "結" : {
+          "term_freq" : 21
+        },
+        "絕" : {
+          "term_freq" : 2
+        },
+        "給" : {
+          "term_freq" : 3
+        },
+        "統" : {
+          "term_freq" : 18
+        },
+        "綁" : {
+          "term_freq" : 1
+        },
+        "經" : {
+          "term_freq" : 42
+        },
+        "維" : {
+          "term_freq" : 7
+        },
+        "網" : {
+          "term_freq" : 3
+        },
+        "緊" : {
+          "term_freq" : 4
+        },
+        "線" : {
+          "term_freq" : 2
+        },
+        "緣" : {
+          "term_freq" : 1
+        },
+        "縮" : {
+          "term_freq" : 1
+        },
+        "總" : {
+          "term_freq" : 16
+        },
+        "繁" : {
+          "term_freq" : 1
+        },
+        "繼" : {
+          "term_freq" : 1
+        },
+        "續" : {
+          "term_freq" : 12
+        },
+        "缺" : {
+          "term_freq" : 6
+        },
+        "罪" : {
+          "term_freq" : 2
+        },
+        "置" : {
+          "term_freq" : 1
+        },
+        "美" : {
+          "term_freq" : 1
+        },
+        "群" : {
+          "term_freq" : 1
+        },
+        "義" : {
+          "term_freq" : 12
+        },
+        "老" : {
+          "term_freq" : 4
+        },
+        "者" : {
+          "term_freq" : 7
+        },
+        "而" : {
+          "term_freq" : 8
+        },
+        "聚" : {
+          "term_freq" : 1
+        },
+        "聯" : {
+          "term_freq" : 3
+        },
+        "職" : {
+          "term_freq" : 4
+        },
+        "肅" : {
+          "term_freq" : 2
+        },
+        "肩" : {
+          "term_freq" : 1
+        },
+        "育" : {
+          "term_freq" : 5
+        },
+        "胎" : {
+          "term_freq" : 1
+        },
+        "胞" : {
+          "term_freq" : 3
+        },
+        "能" : {
+          "term_freq" : 18
+        },
+        "脈" : {
+          "term_freq" : 1
+        },
+        "脫" : {
+          "term_freq" : 2
+        },
+        "臨" : {
+          "term_freq" : 3
+        },
+        "自" : {
+          "term_freq" : 17
+        },
+        "至" : {
+          "term_freq" : 2
+        },
+        "致" : {
+          "term_freq" : 2
+        },
+        "臺" : {
+          "term_freq" : 42
+        },
+        "與" : {
+          "term_freq" : 52
+        },
+        "興" : {
+          "term_freq" : 2
+        },
+        "舉" : {
+          "term_freq" : 5
+        },
+        "舊" : {
+          "term_freq" : 1
+        },
+        "良" : {
+          "term_freq" : 1
+        },
+        "艱" : {
+          "term_freq" : 1
+        },
+        "色" : {
+          "term_freq" : 1
+        },
+        "若" : {
+          "term_freq" : 1
+        },
+        "英" : {
+          "term_freq" : 2
+        },
+        "茫" : {
+          "term_freq" : 1
+        },
+        "菁" : {
+          "term_freq" : 1
+        },
+        "華" : {
+          "term_freq" : 6
+        },
+        "菲" : {
+          "term_freq" : 1
+        },
+        "萬" : {
+          "term_freq" : 1
+        },
+        "落" : {
+          "term_freq" : 2
+        },
+        "著" : {
+          "term_freq" : 2
+        },
+        "蔡" : {
+          "term_freq" : 1
+        },
+        "薄" : {
+          "term_freq" : 1
+        },
+        "薪" : {
+          "term_freq" : 3
+        },
+        "藉" : {
+          "term_freq" : 1
+        },
+        "處" : {
+          "term_freq" : 11
+        },
+        "融" : {
+          "term_freq" : 1
+        },
+        "行" : {
+          "term_freq" : 10
+        },
+        "衛" : {
+          "term_freq" : 2
+        },
+        "衡" : {
+          "term_freq" : 1
+        },
+        "表" : {
+          "term_freq" : 5
+        },
+        "被" : {
+          "term_freq" : 3
+        },
+        "袱" : {
+          "term_freq" : 1
+        },
+        "裂" : {
+          "term_freq" : 1
+        },
+        "補" : {
+          "term_freq" : 2
+        },
+        "裡" : {
+          "term_freq" : 4
+        },
+        "複" : {
+          "term_freq" : 1
+        },
+        "要" : {
+          "term_freq" : 50
+        },
+        "見" : {
+          "term_freq" : 3
+        },
+        "規" : {
+          "term_freq" : 9
+        },
+        "視" : {
+          "term_freq" : 1
+        },
+        "親" : {
+          "term_freq" : 3
+        },
+        "覺" : {
+          "term_freq" : 1
+        },
+        "觀" : {
+          "term_freq" : 5
+        },
+        "角" : {
+          "term_freq" : 1
+        },
+        "解" : {
+          "term_freq" : 11
+        },
+        "言" : {
+          "term_freq" : 1
+        },
+        "計" : {
+          "term_freq" : 2
+        },
+        "討" : {
+          "term_freq" : 1
+        },
+        "記" : {
+          "term_freq" : 6
+        },
+        "設" : {
+          "term_freq" : 1
+        },
+        "許" : {
+          "term_freq" : 5
+        },
+        "訴" : {
+          "term_freq" : 4
+        },
+        "話" : {
+          "term_freq" : 6
+        },
+        "該" : {
+          "term_freq" : 7
+        },
+        "認" : {
+          "term_freq" : 3
+        },
+        "誓" : {
+          "term_freq" : 1
+        },
+        "誕" : {
+          "term_freq" : 1
+        },
+        "語" : {
+          "term_freq" : 2
+        },
+        "誠" : {
+          "term_freq" : 4
+        },
+        "誤" : {
+          "term_freq" : 2
+        },
+        "說" : {
+          "term_freq" : 5
+        },
+        "課" : {
+          "term_freq" : 1
+        },
+        "調" : {
+          "term_freq" : 7
+        },
+        "談" : {
+          "term_freq" : 2
+        },
+        "請" : {
+          "term_freq" : 5
+        },
+        "諒" : {
+          "term_freq" : 2
+        },
+        "論" : {
+          "term_freq" : 2
+        },
+        "諾" : {
+          "term_freq" : 1
+        },
+        "講" : {
+          "term_freq" : 1
+        },
+        "謝" : {
+          "term_freq" : 8
+        },
+        "謹" : {
+          "term_freq" : 2
+        },
+        "識" : {
+          "term_freq" : 5
+        },
+        "議" : {
+          "term_freq" : 20
+        },
+        "護" : {
+          "term_freq" : 7
+        },
+        "讀" : {
+          "term_freq" : 1
+        },
+        "變" : {
+          "term_freq" : 15
+        },
+        "讓" : {
+          "term_freq" : 24
+        },
+        "象" : {
+          "term_freq" : 2
+        },
+        "負" : {
+          "term_freq" : 1
+        },
+        "財" : {
+          "term_freq" : 1
+        },
+        "貢" : {
+          "term_freq" : 2
+        },
+        "貧" : {
+          "term_freq" : 1
+        },
+        "責" : {
+          "term_freq" : 11
+        },
+        "貴" : {
+          "term_freq" : 1
+        },
+        "貿" : {
+          "term_freq" : 5
+        },
+        "資" : {
+          "term_freq" : 7
+        },
+        "賓" : {
+          "term_freq" : 1
+        },
+        "質" : {
+          "term_freq" : 2
+        },
+        "賴" : {
+          "term_freq" : 1
+        },
+        "贏" : {
+          "term_freq" : 1
+        },
+        "走" : {
+          "term_freq" : 7
+        },
+        "起" : {
+          "term_freq" : 15
+        },
+        "超" : {
+          "term_freq" : 1
+        },
+        "越" : {
+          "term_freq" : 6
+        },
+        "足" : {
+          "term_freq" : 2
+        },
+        "距" : {
+          "term_freq" : 1
+        },
+        "跟" : {
+          "term_freq" : 1
+        },
+        "跡" : {
+          "term_freq" : 1
+        },
+        "跨" : {
+          "term_freq" : 2
+        },
+        "路" : {
+          "term_freq" : 5
+        },
+        "躁" : {
+          "term_freq" : 1
+        },
+        "身" : {
+          "term_freq" : 3
+        },
+        "輕" : {
+          "term_freq" : 11
+        },
+        "輪" : {
+          "term_freq" : 1
+        },
+        "輸" : {
+          "term_freq" : 1
+        },
+        "轉" : {
+          "term_freq" : 8
+        },
+        "辦" : {
+          "term_freq" : 2
+        },
+        "迎" : {
+          "term_freq" : 1
+        },
+        "近" : {
+          "term_freq" : 3
+        },
+        "迫" : {
+          "term_freq" : 1
+        },
+        "追" : {
+          "term_freq" : 4
+        },
+        "退" : {
+          "term_freq" : 4
+        },
+        "透" : {
+          "term_freq" : 7
+        },
+        "逐" : {
+          "term_freq" : 4
+        },
+        "這" : {
+          "term_freq" : 55
+        },
+        "通" : {
+          "term_freq" : 6
+        },
+        "速" : {
+          "term_freq" : 2
+        },
+        "造" : {
+          "term_freq" : 9
+        },
+        "連" : {
+          "term_freq" : 2
+        },
+        "進" : {
+          "term_freq" : 11
+        },
+        "遍" : {
+          "term_freq" : 2
+        },
+        "過" : {
+          "term_freq" : 29
+        },
+        "道" : {
+          "term_freq" : 3
+        },
+        "達" : {
+          "term_freq" : 3
+        },
+        "遙" : {
+          "term_freq" : 2
+        },
+        "遠" : {
+          "term_freq" : 1
+        },
+        "遲" : {
+          "term_freq" : 1
+        },
+        "遷" : {
+          "term_freq" : 2
+        },
+        "選" : {
+          "term_freq" : 9
+        },
+        "邀" : {
+          "term_freq" : 2
+        },
+        "還" : {
+          "term_freq" : 2
+        },
+        "邊" : {
+          "term_freq" : 4
+        },
+        "那" : {
+          "term_freq" : 2
+        },
+        "邦" : {
+          "term_freq" : 2
+        },
+        "部" : {
+          "term_freq" : 4
+        },
+        "都" : {
+          "term_freq" : 12
+        },
+        "配" : {
+          "term_freq" : 1
+        },
+        "醫" : {
+          "term_freq" : 1
+        },
+        "重" : {
+          "term_freq" : 12
+        },
+        "量" : {
+          "term_freq" : 4
+        },
+        "釐" : {
+          "term_freq" : 1
+        },
+        "金" : {
+          "term_freq" : 6
+        },
+        "鉅" : {
+          "term_freq" : 1
+        },
+        "錯" : {
+          "term_freq" : 1
+        },
+        "鍵" : {
+          "term_freq" : 5
+        },
+        "鏈" : {
+          "term_freq" : 1
+        },
+        "鑼" : {
+          "term_freq" : 1
+        },
+        "長" : {
+          "term_freq" : 8
+        },
+        "開" : {
+          "term_freq" : 8
+        },
+        "間" : {
+          "term_freq" : 5
+        },
+        "關" : {
+          "term_freq" : 29
+        },
+        "防" : {
+          "term_freq" : 6
+        },
+        "限" : {
+          "term_freq" : 1
+        },
+        "院" : {
+          "term_freq" : 1
+        },
+        "除" : {
+          "term_freq" : 2
+        },
+        "陳" : {
+          "term_freq" : 3
+        },
+        "階" : {
+          "term_freq" : 4
+        },
+        "際" : {
+          "term_freq" : 5
+        },
+        "障" : {
+          "term_freq" : 2
+        },
+        "隨" : {
+          "term_freq" : 2
+        },
+        "集" : {
+          "term_freq" : 6
+        },
+        "雖" : {
+          "term_freq" : 1
+        },
+        "雙" : {
+          "term_freq" : 3
+        },
+        "雜" : {
+          "term_freq" : 1
+        },
+        "難" : {
+          "term_freq" : 3
+        },
+        "零" : {
+          "term_freq" : 1
+        },
+        "需" : {
+          "term_freq" : 9
+        },
+        "震" : {
+          "term_freq" : 2
+        },
+        "霍" : {
+          "term_freq" : 1
+        },
+        "靈" : {
+          "term_freq" : 1
+        },
+        "靠" : {
+          "term_freq" : 1
+        },
+        "面" : {
+          "term_freq" : 12
+        },
+        "革" : {
+          "term_freq" : 16
+        },
+        "靭" : {
+          "term_freq" : 1
+        },
+        "項" : {
+          "term_freq" : 1
+        },
+        "順" : {
+          "term_freq" : 2
+        },
+        "須" : {
+          "term_freq" : 10
+        },
+        "預" : {
+          "term_freq" : 1
+        },
+        "領" : {
+          "term_freq" : 5
+        },
+        "頸" : {
+          "term_freq" : 1
+        },
+        "題" : {
+          "term_freq" : 23
+        },
+        "願" : {
+          "term_freq" : 2
+        },
+        "顧" : {
+          "term_freq" : 6
+        },
+        "食" : {
+          "term_freq" : 1
+        },
+        "首" : {
+          "term_freq" : 4
+        },
+        "駐" : {
+          "term_freq" : 1
+        },
+        "驕" : {
+          "term_freq" : 1
+        },
+        "驗" : {
+          "term_freq" : 1
+        },
+        "驚" : {
+          "term_freq" : 2
+        },
+        "骨" : {
+          "term_freq" : 1
+        },
+        "體" : {
+          "term_freq" : 15
+        },
+        "高" : {
+          "term_freq" : 2
+        },
+        "鬥" : {
+          "term_freq" : 2
+        },
+        "麼" : {
+          "term_freq" : 1
+        },
+        "黎" : {
+          "term_freq" : 1
+        },
+        "點" : {
+          "term_freq" : 2
+        },
+        "黨" : {
+          "term_freq" : 2
+        },
+        "鼓" : {
+          "term_freq" : 2
+        },
+        "齡" : {
+          "term_freq" : 1
+        }
+      }
+    }
+  }
+}
